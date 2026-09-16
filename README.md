@@ -6,12 +6,9 @@ SwiftUI, ARKit, RealityKit으로 만든 iOS 증강현실 농구 게임 MVP입니
 
 ## 게임 화면
 
-<p align="center">
-  <img src="docs/images/ar-basket-scanning.jpg" width="220" alt="AR Basket 벽 스캔 화면">
-  <img src="docs/images/ar-basket-ready.jpg" width="220" alt="AR Basket 골대 위치 선택 안내 화면">
-  <img src="docs/images/ar-basket-wall-detected.jpg" width="220" alt="AR Basket 벽 감지 화면">
-  <img src="docs/images/ar-basket-gameplay.jpg" width="220" alt="AR Basket 실행 화면">
-</p>
+| 벽 스캔 | 위치 안내 | 벽 감지 | 게임 플레이 |
+| --- | --- | --- | --- |
+| <img src="docs/images/ar-basket-scanning.jpg" width="160" alt="AR Basket 벽 스캔 화면"> | <img src="docs/images/ar-basket-ready.jpg" width="160" alt="AR Basket 골대 위치 선택 안내 화면"> | <img src="docs/images/ar-basket-wall-detected.jpg" width="160" alt="AR Basket 벽 감지 화면"> | <img src="docs/images/ar-basket-gameplay.jpg" width="160" alt="AR Basket 실행 화면"> |
 
 ## 주요 기능
 
