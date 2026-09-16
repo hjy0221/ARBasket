@@ -7,7 +7,10 @@ AR Basket is an iOS augmented-reality basketball MVP built with SwiftUI, ARKit, 
 ## Gameplay
 
 <p align="center">
-  <img src="docs/images/ar-basket-gameplay.jpg" width="320" alt="AR Basket gameplay screenshot">
+  <img src="docs/images/ar-basket-scanning.jpg" width="220" alt="AR Basket wall scanning screen">
+  <img src="docs/images/ar-basket-ready.jpg" width="220" alt="AR Basket hoop placement guidance screen">
+  <img src="docs/images/ar-basket-wall-detected.jpg" width="220" alt="AR Basket detected wall screen">
+  <img src="docs/images/ar-basket-gameplay.jpg" width="220" alt="AR Basket gameplay screenshot">
 </p>
 
 ## Features
