@@ -46,14 +46,6 @@ AR gameplay is not available in the simulator. The project can compile and run s
 - **Shoot:** Swipe upward on the screen.
 - **Restart:** Tap the small restart button in the top scoreboard, then tap a wall again.
 
-## Encryption Flow
-
-- **Client:** Receive the payload, verify the SHA256 hash, then decrypt it.
-- **Symmetric encryption:** AES-256-CBC
-- **IV:** 16 zero bytes as `bytes(16)`
-- **Hash:** SHA256
-- **Public key:** RSA-2048
-
 ## Technology
 
 - Swift
