@@ -4,6 +4,12 @@
 
 SwiftUI, ARKit, RealityKit으로 만든 iOS 증강현실 농구 게임 MVP입니다.
 
+## 앱 아이콘
+
+<p align="center">
+  <img src="ARBasket/Assets.xcassets/AppIcon.appiconset/AppIcon.png" width="180" alt="AR Basket 앱 아이콘">
+</p>
+
 ## 게임 화면
 
 | 벽 스캔 | 위치 안내 | 벽 감지 | 게임 플레이 |

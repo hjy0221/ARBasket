@@ -4,6 +4,12 @@
 
 AR Basket is an iOS augmented-reality basketball MVP built with SwiftUI, ARKit, and RealityKit.
 
+## App Icon
+
+<p align="center">
+  <img src="ARBasket/Assets.xcassets/AppIcon.appiconset/AppIcon.png" width="180" alt="AR Basket app icon">
+</p>
+
 ## Gameplay
 
 | Wall Scan | Placement Guide | Wall Detected | Gameplay |

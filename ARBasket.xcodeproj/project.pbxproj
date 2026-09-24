@@ -13,6 +13,7 @@
 		A10000000000000000000004 /* GameMath.swift in Sources */ = {isa = PBXBuildFile; fileRef = B10000000000000000000004 /* GameMath.swift */; };
 		A10000000000000000000005 /* ARGameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B10000000000000000000005 /* ARGameView.swift */; };
 		A10000000000000000000006 /* GameMathTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B10000000000000000000006 /* GameMathTests.swift */; };
+		A10000000000000000000007 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B10000000000000000000010 /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +36,7 @@
 		B10000000000000000000007 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B10000000000000000000008 /* ARBasket.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ARBasket.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B10000000000000000000009 /* ARBasketTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ARBasketTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		B10000000000000000000010 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +75,7 @@
 				B10000000000000000000004 /* GameMath.swift */,
 				B10000000000000000000005 /* ARGameView.swift */,
 				B10000000000000000000007 /* Info.plist */,
+				B10000000000000000000010 /* Assets.xcassets */,
 			);
 			path = ARBasket;
 			sourceTree = "<group>";
@@ -175,6 +178,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A10000000000000000000007 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -297,6 +301,7 @@
 					CURRENT_PROJECT_VERSION = 1;
 					DEVELOPMENT_TEAM = UX6LM8U38J;
 					GENERATE_INFOPLIST_FILE = NO;
+					ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 					INFOPLIST_FILE = ARBasket/Info.plist;
 					INFOPLIST_KEY_CFBundleDisplayName = "AR Basket";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -321,6 +326,7 @@
 					CURRENT_PROJECT_VERSION = 1;
 					DEVELOPMENT_TEAM = UX6LM8U38J;
 					GENERATE_INFOPLIST_FILE = NO;
+					ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 					INFOPLIST_FILE = ARBasket/Info.plist;
 					INFOPLIST_KEY_CFBundleDisplayName = "AR Basket";
 				LD_RUNPATH_SEARCH_PATHS = (
