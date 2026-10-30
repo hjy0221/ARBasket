@@ -1,6 +1,95 @@
 # AR Basket
 
-**한국어** | [English](README.en.md)
+[日本語](https://github.com/hjy0221/ARBasket#%E6%97%A5%E6%9C%AC%E8%AA%9E) · [English](https://github.com/hjy0221/ARBasket#english) · [한국어](https://github.com/hjy0221/ARBasket#%ED%95%9C%EA%B5%AD%EC%96%B4)
+
+## 日本語
+
+SwiftUI、ARKit、RealityKit で作られた iOS 向け AR バスケットボールゲームの MVP です。
+
+### 機能
+
+- 垂直な壁の検出とゴール設置、スキャン案内
+- スワイプの方向と速度に応じたシュート
+- ボール、リング、バックボードの物理衝突と得点判定
+- スコアボード、60秒タイマー、ゴール位置を変える再スタート
+- 初心者向けの照準補正と得点判定の許容範囲
+
+### 必要環境
+
+Xcode 16 以降、iOS 17 以降、ARKit 対応の実機 iPhone / iPad、カメラの使用許可が必要です。シミュレーターではビルドや一部のテストはできますが、AR ゲームのプレイには対応する実機が必要です。
+
+### 実行と操作
+
+1. Xcode で `ARBasket.xcodeproj` を開き、実機と開発チームを選択して実行します。
+2. カメラを壁に向け、デバイスをゆっくり左右に動かします。
+3. 検出された壁または ARKit が推定した壁をタップしてゴールを設置します。
+4. 上にスワイプしてシュートします。再スタートするにはスコアボードのボタンを押し、壁を再選択します。
+
+Swift、SwiftUI、ARKit、RealityKit、XCTest を使用し、外部ライブラリには依存しません。
+
+## English
+
+AR Basket is an iOS augmented-reality basketball MVP built with SwiftUI, ARKit, and RealityKit.
+
+## App Icon
+
+<p align="center">
+  <img src="ARBasket/Assets.xcassets/AppIcon.appiconset/AppIcon.png" width="180" alt="AR Basket app icon">
+</p>
+
+## Gameplay
+
+| Wall Scan | Placement Guide | Wall Detected | Gameplay |
+| --- | --- | --- | --- |
+| <img src="docs/images/ar-basket-scanning.jpg" width="160" alt="AR Basket wall scanning screen"> | <img src="docs/images/ar-basket-ready.jpg" width="160" alt="AR Basket hoop placement guidance screen"> | <img src="docs/images/ar-basket-wall-detected.jpg" width="160" alt="AR Basket detected wall screen"> | <img src="docs/images/ar-basket-gameplay.jpg" width="160" alt="AR Basket gameplay screenshot"> |
+
+## Features
+
+- Vertical wall detection and wall-mounted hoop placement
+- Detected-wall visualization and AR scanning guidance
+- Swipe shooting based on gesture direction and speed
+- Physics collisions for the ball, rim, and backboard
+- Score detection when the ball passes through the rim
+- Scoreboard and 60-second timer
+- Restart flow for choosing a new hoop position
+- Beginner-friendly aim assistance and scoring tolerance
+
+## Requirements
+
+- Xcode 16 or later
+- iOS 17 or later
+- A physical ARKit-compatible iPhone or iPad
+- Camera permission
+
+AR gameplay is not available in the simulator. The project can compile and run some tests there, but gameplay requires a physical ARKit-compatible device.
+
+## Run
+
+1. Open `ARBasket.xcodeproj` in Xcode.
+2. Select the iPhone or iPad you want to use.
+3. Choose your development team under Signing & Capabilities.
+4. Build and run the app.
+5. Point the camera at a wall and move the device slowly from side to side.
+6. Tap a green detected wall or a vertical surface estimated by ARKit to place the hoop.
+7. Swipe upward on the screen to shoot.
+
+## Controls
+
+- **Place hoop:** Tap a detected wall.
+- **Shoot:** Swipe upward on the screen.
+- **Restart:** Tap the small restart button in the top scoreboard, then tap a wall again.
+
+## Technology
+
+- Swift
+- SwiftUI
+- ARKit
+- RealityKit
+- XCTest
+
+The project has no external dependencies.
+
+## 한국어
 
 SwiftUI, ARKit, RealityKit으로 만든 iOS 증강현실 농구 게임 MVP입니다.
 
