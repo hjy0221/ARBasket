@@ -6,6 +6,18 @@
 
 SwiftUI、ARKit、RealityKit で作られた iOS 向け AR バスケットボールゲームの MVP です。
 
+### アプリアイコン
+
+<p align="center">
+  <img src="ARBasket/Assets.xcassets/AppIcon.appiconset/AppIcon.png" width="180" alt="AR Basket app icon">
+</p>
+
+### ゲーム画面
+
+| Wall Scan | Placement Guide | Wall Detected | Gameplay |
+| --- | --- | --- | --- |
+| <img src="docs/images/ar-basket-scanning.jpg" width="160" alt="AR Basket wall scan"> | <img src="docs/images/ar-basket-ready.jpg" width="160" alt="AR Basket placement guide"> | <img src="docs/images/ar-basket-wall-detected.jpg" width="160" alt="AR Basket wall detected"> | <img src="docs/images/ar-basket-gameplay.jpg" width="160" alt="AR Basket gameplay"> |
+
 ### 機能
 
 - 垂直な壁の検出とゴール設置、スキャン案内
