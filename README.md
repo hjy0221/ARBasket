@@ -16,7 +16,7 @@ SwiftUI、ARKit、RealityKitで作られたiOS拡張現実バスケットボー�
 
 |ウォールスキャン|位置情報|壁検出|ゲームプレイ|
 | --- | --- | --- | --- |
-| <img src="docs/images/ar-basket-scanning.jpg" width="160" alt="AR Basketウォールスキャン画面"> | <img src="docs/images/ar-basket-ready.jpg" width="160" alt="AR Basket スケルトン位置選択ガイド画面"> | <img src="docs/images/ar-basket-wall-detected.jpg" width="160" alt="AR Basket壁検出画面"> | <img src="docs/images/ar-basket-gameplay.jpg" width="160" alt="AR Basket実行画面"> |
+| <img src="docs/images/ar-basket-scanning-ja.png" width="160" alt="AR Basketウォールスキャン画面"> | <img src="docs/images/ar-basket-ready-ja.png" width="160" alt="AR Basket スケルトン位置選択ガイド画面"> | <img src="docs/images/ar-basket-wall-detected-ja.png" width="160" alt="AR Basket壁検出画面"> | <img src="docs/images/ar-basket-gameplay-ja.png" width="160" alt="AR Basket実行画面"> |
 
 ## 主な機能
 
@@ -74,7 +74,7 @@ This is an iOS augmented reality basketball game MVP created with SwiftUI, ARKit
 
 | wall scan | Location information | wall detection | Gameplay |
 | --- | --- | --- | --- |
-| <img src="docs/images/ar-basket-scanning.jpg" width="160" alt="AR Basket wall scanning screen"> | <img src="docs/images/ar-basket-ready.jpg" width="160" alt="AR Basket goalpost location selection guidance screen"> | <img src="docs/images/ar-basket-wall-detected.jpg" width="160" alt="AR Basket wall detection screen"> | <img src="docs/images/ar-basket-gameplay.jpg" width="160" alt="AR Basket execution screen"> |
+| <img src="docs/images/ar-basket-scanning-en.png" width="160" alt="AR Basket wall scanning screen"> | <img src="docs/images/ar-basket-ready-en.png" width="160" alt="AR Basket goalpost location selection guidance screen"> | <img src="docs/images/ar-basket-wall-detected-en.png" width="160" alt="AR Basket wall detection screen"> | <img src="docs/images/ar-basket-gameplay-en.png" width="160" alt="AR Basket execution screen"> |
 
 ## Main features
 
