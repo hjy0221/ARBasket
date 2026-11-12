@@ -4,8 +4,6 @@
 
 ## 日本語
 
-[日本語](https://github.com/hjy0221/ARBasket#%E6%97%A5%E6%9C%AC%E8%AA%9E) · [English](https://github.com/hjy0221/ARBasket#english) · [한국어](https://github.com/hjy0221/ARBasket#%ED%95%9C%EA%B5%AD%EC%96%B4)
-
 SwiftUI、ARKit、RealityKitで作られたiOS拡張現実バスケットボールゲームMVPです。
 
 ## アプリアイコン
@@ -64,8 +62,6 @@ ARゲームはシミュレータでプレイできません。ビルドといく
 
 ## English
 
-[日本語](https://github.com/hjy0221/ARBasket#%E6%97%A5%E6%9C%AC%E8%AA%9E) · [English](https://github.com/hjy0221/ARBasket#english) · [한국어](https://github.com/hjy0221/ARBasket#%ED%95%9C%EA%B5%AD%EC%96%B4)
-
 This is an iOS augmented reality basketball game MVP created with SwiftUI, ARKit, and RealityKit.
 
 ## App icon
@@ -123,8 +119,6 @@ AR games cannot be played on the simulator. You can build and do some testing, b
 No external libraries are used.
 
 ## 한국어
-
-[日本語](https://github.com/hjy0221/ARBasket#%E6%97%A5%E6%9C%AC%E8%AA%9E) · [English](https://github.com/hjy0221/ARBasket#english) · [한국어](https://github.com/hjy0221/ARBasket#%ED%95%9C%EA%B5%AD%EC%96%B4)
 
 SwiftUI, ARKit, RealityKit으로 만든 iOS 증강현실 농구 게임 MVP입니다.
 
